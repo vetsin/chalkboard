@@ -44,7 +44,7 @@
 # WH40K
 * [Bricky](https://www.youtube.com/channel/UCqdcfoz9hDXCXbJDaklkwjQ)
 * [Luetin09](https://www.youtube.com/user/Luetin09)
-* [Oculus Imperia](https://www.youtube.com/c/OculusImperia
+* [Oculus Imperia](https://www.youtube.com/c/OculusImperia)
 
 # Boat Building
 * [Acorn To Arabella](https://www.youtube.com/c/AcornToArabella)
