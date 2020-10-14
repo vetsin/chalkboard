@@ -3,3 +3,5 @@ nav:
     - Home: index.md
     - YouTube: youtube.md
 theme: readthedocs
+repo_url: https://github.com/vetsin/chalkboard/
+edit_uri: 'edit/main/docs'
