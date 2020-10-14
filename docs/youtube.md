@@ -4,7 +4,6 @@
 * [Brick Experiment Channel](https://www.youtube.com/channel/UClsFdM0HzTdF1JYoraQ0aUw)
 
 # Restoration
-* [ISHITANI FURNITURE](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q)
 * [my mechanics](https://www.youtube.com/channel/UCMrMVIBtqFW6O0-MWq26gqw)
 * [Baumgartner Restoration](https://www.youtube.com/c/BaumgartnerRestoration)
 
@@ -59,3 +58,6 @@
 
 # Metalworking
 * [Olfoundryman](https://www.youtube.com/channel/UC90RoN_IjSRF18jAG0HIA6g)
+
+# Woodworking
+* [ISHITANI FURNITURE](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q)
