@@ -4,7 +4,10 @@ Built via [mkdocs](http://www.mkdocs.org/) to [wiki.c0ffee.me](https://wiki.c0ff
 
 ## Contributing As A Programmer
 
-Have python then `pip install -r requirements.txt` and then `mkdocs serve`
+* Create a virtualenv: `python -m venv venv`
+* Activate: `source venv/bin/activate`
+* Install dependencies: `pip install -r requirements.txt`
+* Run the builtin development server: `mkdocs serve`
 
 Just do the normal git stuff otherwise.
 
