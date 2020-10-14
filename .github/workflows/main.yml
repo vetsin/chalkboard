@@ -24,6 +24,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: build and publish
+      if: github.ref == 'refs/heads/main'
       run: |
         mkdocs gh-deploy
+    - name: just build
+      if: github.ref != 'refs/heads/main'
+      run: |
+        mkdocs build
 
