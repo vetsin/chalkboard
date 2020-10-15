@@ -9,6 +9,8 @@
 # DIY & Makers
 * [ShopBuilt](https://www.youtube.com/channel/UCZBqq0o54ShN5cSTflT2MnQ)
 * [frank howarth](https://www.youtube.com/c/frankhowarth)
+* [Marty T](https://www.youtube.com/channel/UCp-mnssZd4X2bgIcekaNfgA)
+* [Matt Risinger](https://www.youtube.com/channel/UCFCTrfb1JUJjs3Im8OZDtBw)
 
 # F1 Stuff
 * [Driver61](https://www.youtube.com/channel/UCtbLA0YM6EpwUQhFUyPQU9Q)
@@ -30,6 +32,7 @@
 
 # Metalworking
 * [Olfoundryman](https://www.youtube.com/channel/UC90RoN_IjSRF18jAG0HIA6g)
+* [Cà Lem](https://www.youtube.com/channel/UCPDzaG_uYHxBIFRA3LscU_Q)
 
 # Motorcycles
 * [FortNine](https://www.youtube.com/channel/UCNSMdQtn1SuFzCZjfK2C7dQ)
@@ -58,5 +61,14 @@
 * [Luetin09](https://www.youtube.com/user/Luetin09)
 * [Oculus Imperia](https://www.youtube.com/c/OculusImperia)
 
-# Woodworking
+# Woodworking Education
+* [The Wood Whisperer](https://www.youtube.com/channel/UCKp44bWWZIiOPShPN_ytShw)
+* [Alabama Woodworker](https://www.youtube.com/channel/UCZLbHFXOUTGEKuzXDwGVrZA)
+* [Rob Cosman](p8oXLR84eiryfhNXK-nTA)
+* [Paul Sellers](https://www.youtube.com/channel/UCc3EpWncNq5QL0QhwUNQb7w)
+
+# Woodworking Porn
 * [ISHITANI FURNITURE](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q)
+* [Dorian Bracht](https://www.youtube.com/channel/UCRGV5YMWtS0RR-SfJ2XU-8A)
+* [Kobeomsuk](https://www.youtube.com/channel/UCVOpX2P5wygh7sB1KXgh_5g)
+* [parillaworks](https://www.youtube.com/channel/UCotJdR9rXL-jhkSe-nfVH8g)
