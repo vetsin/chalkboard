@@ -26,6 +26,7 @@ jobs:
     - name: build and publish
       if: github.ref == 'refs/heads/main'
       run: |
+        git fetch origin gh-pages
         mkdocs gh-deploy
     - name: just build
       if: github.ref != 'refs/heads/main'
