@@ -26,6 +26,9 @@
 # History
 * [The Great Big Move](https://www.youtube.com/channel/UCliAnedlboNBe9aMMvG03bQ)
 
+# Law
+* [Legal Eagle](https://www.youtube.com/channel/UCpa-Zb0ZcQjTCPP1Dx_1M8Q) - Interesting stuff about US Law
+
 # Lego
 * [Sariel's Bricks & Pets](https://www.youtube.com/channel/UCUH5uajsvjan8wE6GWOrRJg)
 * [Brick Experiment Channel](https://www.youtube.com/channel/UClsFdM0HzTdF1JYoraQ0aUw)
