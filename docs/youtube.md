@@ -6,6 +6,9 @@
 * [Restore It](https://www.youtube.com/channel/UCYSAWDQnoz0uIBRYlophvNw)
 * [Carfection](https://www.youtube.com/channel/UCwuDqQjo53xnxWKRVfw_41w)
 
+# Computers
+* [ServeTheHome](https://www.youtube.com/c/ServeTheHomeVideo)
+
 # DIY & Makers
 * [ShopBuilt](https://www.youtube.com/channel/UCZBqq0o54ShN5cSTflT2MnQ)
 * [frank howarth](https://www.youtube.com/c/frankhowarth)
