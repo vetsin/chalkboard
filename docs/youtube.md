@@ -18,6 +18,10 @@
 * [Matt Risinger](https://www.youtube.com/channel/UCFCTrfb1JUJjs3Im8OZDtBw)
 * [Project Farm](https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wuOg_p0Ng)
 * [AvE](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA)
+* [Simone Giertz](https://www.youtube.com/c/simonegiertz)
+* [Tested](https://www.youtube.com/c/tested)
+* [Colin Furze](https://www.youtube.com/user/colinfurze)
+* [Mark Rober](https://www.youtube.com/c/MarkRober)
 
 # F1 Stuff
 * [Driver61](https://www.youtube.com/channel/UCtbLA0YM6EpwUQhFUyPQU9Q)
@@ -25,10 +29,19 @@
 
 # Food
 * [allthingsbbq](https://www.youtube.com/c/allthingsbbq)
+* [Babish Culinary Universe](https://www.youtube.com/c/bingingwithbabish)
+* [Food Wishes](https://www.youtube.com/c/foodwishes)
+* [Adam Ragusea](https://www.youtube.com/user/aragusea)
+
+# Funny
+* [Ozzy Man Reviews](https://www.youtube.com/user/ozzymanreviews)
 
 # General Informative
 * [Veritasium](https://www.youtube.com/user/1veritasium)
-* [Tom Scott](https://www.youtube.com/user/enyay)
+* [Tom Scott](https://youtube.com/TomScottGo)
+* [SmarterEveryDay](https://www.youtube.com/SmarterEveryDay)
+* [Technology Connections](https://www.youtube.com/c/technologyconnections)
+* [Steve Mould](https://www.youtube.com/c/SteveMould)
 
 # History
 * [The Great Big Move](https://www.youtube.com/channel/UCliAnedlboNBe9aMMvG03bQ)
@@ -40,9 +53,14 @@
 * [Sariel's Bricks & Pets](https://www.youtube.com/channel/UCUH5uajsvjan8wE6GWOrRJg)
 * [Brick Experiment Channel](https://www.youtube.com/channel/UClsFdM0HzTdF1JYoraQ0aUw)
 
+# Lockpicking
+* [LockPickingLawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
+
 # Metalworking
 * [Olfoundryman](https://www.youtube.com/channel/UC90RoN_IjSRF18jAG0HIA6g)
 * [Cà Lem](https://www.youtube.com/channel/UCPDzaG_uYHxBIFRA3LscU_Q)
+* [Abom79](https://www.youtube.com/user/Abom79)
+* [Make It Extreme](https://www.youtube.com/channel/UCkhZ3X6pVbrEs_VzIPfwWgQ)
 
 # Motorcycles
 * [FortNine](https://www.youtube.com/channel/UCNSMdQtn1SuFzCZjfK2C7dQ)
