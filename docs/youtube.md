@@ -5,6 +5,8 @@
 # Cars
 * [Restore It](https://www.youtube.com/channel/UCYSAWDQnoz0uIBRYlophvNw)
 * [Carfection](https://www.youtube.com/channel/UCwuDqQjo53xnxWKRVfw_41w)
+* [Mighty Car Mods](https://www.youtube.com/channel/UCgJRL30YS6XFxq9Ga8W2J3A)
+* [Papadakis Racing](https://www.youtube.com/user/PapadakisRacing)
 
 # Computers
 * [ServeTheHome](https://www.youtube.com/c/ServeTheHomeVideo)
@@ -14,6 +16,8 @@
 * [frank howarth](https://www.youtube.com/c/frankhowarth)
 * [Marty T](https://www.youtube.com/channel/UCp-mnssZd4X2bgIcekaNfgA)
 * [Matt Risinger](https://www.youtube.com/channel/UCFCTrfb1JUJjs3Im8OZDtBw)
+* [Project Farm](https://www.youtube.com/channel/UC2rzsm1Qi6N1X-wuOg_p0Ng)
+* [AvE](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA)
 
 # F1 Stuff
 * [Driver61](https://www.youtube.com/channel/UCtbLA0YM6EpwUQhFUyPQU9Q)
