@@ -1,6 +1,7 @@
 site_name: C0FFEE Wiki
 nav:
     - Home: index.md
+    - Podcasts: podcasts.md
     - YouTube: youtube.md
 theme: readthedocs
 repo_url: https://github.com/vetsin/chalkboard/
